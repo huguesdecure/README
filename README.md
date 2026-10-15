@@ -1,7 +1,7 @@
 # README
 # Hi, I'm Hugues 👋
 
-GIS Analyst transitioning into Australian renewable energy and infrastructure. Bilingual French–English. Based in Melbourne.
+GIS Analyst transitioning into Australian renewable energy and infrastructure. Bilingual French–English. Open to toles in France.
 
 🔭 **Active project:** [Solar farm site suitability for Victoria](https://github.com/hugues-decure/solar-farm-suitability-victoria) — QGIS, MCDA, GDA2020 MGA Zone 55, validated against Clean Energy Regulator data.
 
